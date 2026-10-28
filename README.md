@@ -1,7 +1,7 @@
 
 # Hi there, I'm Gunjan Mahara 👋
 
-### 💻 Full Stack Developer | React & TypeScript | Aspiring DevOps Engineer
+### 💻 Full Stack Developer | React & TypeScript | 
 
 📍 Delhi, India
 
