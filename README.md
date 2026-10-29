@@ -126,19 +126,25 @@ A responsive shopping website built with core web technologies.
 
 ---
 
+
 ## `05 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gunjan34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Gunjan34&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan34&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&text_color=C9D1D9" alt="Most used languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gunjan34&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D7BFF&text_color=C9D1D9" alt="Most used languages"/>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Gunjan34&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7BFF&fire=38BDF8&currStreakLabel=9D7BFF" alt="GitHub contribution streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan34&bg_color=0D1117&color=C9D1D9&line=9D7BFF&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph"/>
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan34&bg_color=0D1117&color=C9D1D9&line=9D7BFF&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph"/> -->
+
+
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan34&bg_color=0D1117&color=C9D1D9&line=9D7BFF&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph"/> -->
+
 
 </div>
+
 
 ---
 
