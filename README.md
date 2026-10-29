@@ -2,7 +2,7 @@
 
 # `GUNJAN MAHARA`
 
-### ⚡ FULL STACK DEVELOPER · ASPIRING DEVOPS ENGINEER
+### ⚡ FULL STACK DEVELOPER · 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=9D7BFF&center=true&vCenter=true&width=700&lines=React+%26+TypeScript+Developer;Building+AI-Powered+Applications;Exploring+Linux+%7C+AWS+%7C+CI%2FCD;Code.+Automate.+Deploy." alt="Animated developer introduction" />
 
