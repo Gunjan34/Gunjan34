@@ -73,54 +73,6 @@ I'm a software developer passionate about building responsive web applications, 
 
 ---
 
-## `03 // EXPERIENCE`
-
-### AI Code Reviewer Intern — Edunet Foundation
-
-**June 2025 – July 2025 · Remote**
-
-- Built an AI-powered code reviewer using the MERN stack and Gemini API.
-- Designed a live code editor with AI-generated suggestions.
-- Implemented JWT authentication to secure user sessions.
-- Stored code review history in MongoDB.
-- Collaborated with mentors to improve the application.
-
----
-
-## `04 // PROJECTS`
-
-### 🤖 AI Code Reviewer
-
-An AI-powered tool that helps developers review code and identify potential improvements.
-
-- Integrated Gemini API suggestions into a live code editor.
-- Implemented authentication and code review history.
-- **Stack:** MERN, Gemini API, JWT.
-
-### 📝 Notes Application with Integrated Chatbot
-
-A full-stack notes application with AI-powered assistance.
-
-- Integrated Gemini API for contextual Q&A and note suggestions.
-- Implemented JWT-based authentication.
-- Developed REST APIs and a responsive user interface.
-- **Stack:** React, Node.js, Express, MongoDB, Gemini API.
-
-### 👥 Human Resource Management System
-
-A team project focused on employee management workflows.
-
-- Led a team developing an HR management application.
-- Designed employee management, attendance, and payroll modules.
-- Implemented authentication and role-based access control.
-
-### 🛒 E-Commerce Website
-
-A responsive shopping website built with core web technologies.
-
-- Created product listings and shopping cart functionality.
-- Implemented order placement features.
-- **Stack:** HTML, CSS, JavaScript.
 
 🔗 [Explore all repositories →](https://github.com/Gunjan34?tab=repositories)
 
