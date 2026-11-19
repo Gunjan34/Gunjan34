@@ -18,14 +18,6 @@
 
 ## `01 // ABOUT ME`
 
-```text
-> Developer status: ONLINE
-> Primary focus: Frontend Engineering
-> Core stack: React + TypeScript
-> Exploring: Cloud & DevOps Engineering
-> Mission: Build. Automate. Scale.
-```
-
 I'm a software developer passionate about building responsive web applications, developing REST APIs, and integrating AI-powered features.
 
 - 💻 Experienced in MERN stack development.
@@ -127,38 +119,8 @@ I'm a software developer passionate about building responsive web applications, 
 
 ---
 
-## `08 // EDUCATION`
 
-**B.Tech in Computer Science and Engineering**  
-Avviare Educational Hub · 2022–2026
 
-**School Education**  
-Rajeev Gandhi Navodaya Vidyalaya, Syat Kotabagh · Completed 2022
-
----
-
-## `09 // CERTIFICATIONS`
-
-- C, C++ and Node.js Full-Stack Development (2023–2024)
-- Data Structures and Algorithms — Unstop (2024)
-- React Hooks Crash Course — GreatStack (2024)
-
----
-
-## `10 // CURRENT LEARNING PATH`
-
-```text
-[IN PROGRESS]
-├── Linux & Shell Fundamentals
-├── CI/CD Pipelines
-├── AWS Cloud Fundamentals
-├── Docker & Containerization
-└── Application Deployment & Monitoring
-```
-
----
-
-<div align="center">
 
 ### `SYSTEM MESSAGE: KEEP BUILDING.`
 
