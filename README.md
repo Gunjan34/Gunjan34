@@ -26,7 +26,7 @@ I'm a software developer passionate about building responsive web applications, 
 - 🔐 Familiar with JWT authentication and role-based access control.
 - 👥 Led a team project to develop an HR Management System.
 - 🌱 Learning Linux, CI/CD, AWS, Docker, and DevOps fundamentals.
-- 🎯 Long-term goal: Grow into a DevOps Engineer.
+
 
 ---
 
